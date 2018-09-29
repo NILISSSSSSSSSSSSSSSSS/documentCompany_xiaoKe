@@ -1,0 +1,26 @@
+﻿<master version="5.3" minAllowVersion="5.3" ID="C383D48A-C7AB-4D44-8C5D-AAAFE9904004">
+  <controls>
+    <control controlID="D5710BE6-DFC9-485A-A98F-34431BCD7CE0" controlTypeID="Master" x="1053" y="15" w="207" h="47" zOrder="23" masterID="C383D48A-C7AB-4D44-8C5D-AAAFE9904004">
+      <groupChildrenDescriptors>
+        <control controlID="2D27683E-4D4F-41C7-9589-5699268BA99F" controlTypeID="Label" x="0" y="0" w="207" h="19" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%AC%A2%E8%BF%8E%E6%82%A8%EF%BC%81%E5%88%98%E5%BE%B7%E5%8D%8E%EF%BC%8818586626598%EF%BC%89</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="54920C0B-B36B-413E-B4AA-C4BA09ED595D" controlTypeID="Button" x="137" y="23" w="70" h="24" zOrder="1">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="9EBDC779-D5CB-4277-93F3-0354D49ABF6E" linkType="ltPageLink" isApplyIncludePage="False" title="%E7%99%BB%E5%BD%95">
+              <area shape="0" alt="" ID="{303AAC95-9E5C-40BE-B6D0-47D3A029285F}" coords="(0,0,70,24)"/>
+            </link>
+          </links>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E9%80%80%E5%87%BA</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

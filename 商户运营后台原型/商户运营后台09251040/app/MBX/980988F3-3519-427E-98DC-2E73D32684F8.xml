@@ -1,0 +1,22 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="980988F3-3519-427E-98DC-2E73D32684F8" platform="MtWeb" defaultW="1280" defaultH="1700" measureW="1280" measureH="1700" mobileScreenScale="0">
+  <controls controlCount="2">
+    <control controlID="50174E35-D7C7-46D3-81DC-E505110AEF9B" controlTypeID="Label" x="20" y="36" w="120" h="27" zOrder="0">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%E5%95%86%E6%88%B7%E5%85%A5%E9%A9%BB%E6%B5%81%E7%A8%8B</text>
+      <textSize>20</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="BCC54506-D79C-4C60-871A-70B947E1FBC7" controlTypeID="Image" x="20" y="83" w="908" h="213" zOrder="1">
+      <URL>8D12518C5AEDBDB3E0C1F7C4F2179F94.png</URL>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>

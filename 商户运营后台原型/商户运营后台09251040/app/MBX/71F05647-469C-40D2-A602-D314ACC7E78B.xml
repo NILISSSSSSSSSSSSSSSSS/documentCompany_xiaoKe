@@ -1,0 +1,769 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="71F05647-469C-40D2-A602-D314ACC7E78B" platform="MtWeb" defaultW="1280" defaultH="720" measureW="1280" measureH="720" mobileScreenScale="0">
+  <controls controlCount="36">
+    <control controlID="746C3699-DC5A-40D8-B211-246DD4B150C5" controlTypeID="Table" x="256" y="314" w="318" h="180" zOrder="0">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%95%86%E5%93%81%E7%BC%96%E5%8F%B7%09%E5%95%86%E5%93%81%E7%B1%BB%E5%9E%8B%09%E5%95%86%E5%93%81%E5%90%8D%E7%A7%B0%09123156%09%E6%9C%8D%E5%8A%A1%E7%B1%BB%09XXXXXX%09123445%09%E5%95%86%E5%93%81%E7%B1%BB%09XXXXXX%09123156%09%E4%BD%8F%E5%AE%BF%E7%B1%BB%09XXXXXX%09123445%09%E5%A4%96%E5%8D%96%E7%B1%BB%09XXXXXX%09123156%09%E5%A4%96%E5%8D%96%E7%B1%BB%09XXXXXX</text>
+      <textSize>14</textSize>
+      <textAlign>HaCenter</textAlign>
+      <lineSpacing>0</lineSpacing>
+      <thickness>1</thickness>
+      <dashMode>SdSolid</dashMode>
+      <tableStyle>tsNone</tableStyle>
+      <fontFamily/>
+      <fontWeight>Regular</fontWeight>
+      <textStyles>[]</textStyles>
+      <cells>
+        <cell rows="0,0" cols="0,0">
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>%E5%95%86%E5%93%81%E7%BC%96%E5%8F%B7</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="1,1">
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>%E5%95%86%E5%93%81%E7%B1%BB%E5%9E%8B</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="0,0" cols="2,2">
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>%E5%95%86%E5%93%81%E5%90%8D%E7%A7%B0</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="0,0">
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>123156</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="1,1">
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>%E6%9C%8D%E5%8A%A1%E7%B1%BB</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="1,1" cols="2,2">
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>XXXXXX</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="0,0">
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>123445</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="1,1">
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>%E5%95%86%E5%93%81%E7%B1%BB</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="2,2" cols="2,2">
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>XXXXXX</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="0,0">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>123156</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="1,1">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>%E4%BD%8F%E5%AE%BF%E7%B1%BB</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="3,3" cols="2,2">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>XXXXXX</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="0,0">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>123445</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="1,1">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>%E5%A4%96%E5%8D%96%E7%B1%BB</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="4,4" cols="2,2">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>XXXXXX</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="5,5" cols="0,0">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>123156</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="5,5" cols="1,1">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>%E5%A4%96%E5%8D%96%E7%B1%BB</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+        <cell rows="5,5" cols="2,2">
+          <fontSize>12</fontSize>
+          <textHAlign>HaCenter</textHAlign>
+          <textVAlign>VaMiddle</textVAlign>
+          <textColor>4278190080</textColor>
+          <textWordWrap>True</textWordWrap>
+          <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <text>XXXXXX</text>
+          <textHeight>28</textHeight>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+        </cell>
+      </cells>
+      <rows>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+        <row height="30">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <isAutoRowHeight>True</isAutoRowHeight>
+        </row>
+      </rows>
+      <cols>
+        <col width="101">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="102">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+        <col width="115">
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+        </col>
+      </cols>
+    </control>
+    <control controlID="283005FD-17A0-4151-84BD-AFACF2C27EAB" controlTypeID="Label" x="256" y="92" w="64" h="22" zOrder="1">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%E4%BF%83%E9%94%80%E7%AE%A1%E7%90%86</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="E77DC20D-1190-4190-A750-101D9FCB82F7" controlTypeID="Button" x="644" y="521" w="70" h="28" zOrder="2">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%BF%9D%E5%AD%98</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="01AB5963-C99B-40A1-B2C1-2DC338236EFE" controlTypeID="Label" x="320" y="92" w="71" h="22" zOrder="3">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%2F%E6%96%B0%E5%A2%9E%E4%BF%83%E9%94%80</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="34721423-4EA3-4151-A48B-E5A98B1FBDF7" controlTypeID="Label" x="256" y="138" w="56" h="19" zOrder="4">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%B4%BB%E5%8A%A8%E7%B1%BB%E5%9E%8B</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FA23EEEF-D632-4D78-9C33-C10BFDB37D56" controlTypeID="CompositeComboBox" x="322" y="135" w="138" h="24" zOrder="5">
+      <groupChildrenDescriptors>
+        <control controlID="86F7BB81-37EE-40A3-8AF4-8FB040DCE24E" controlTypeID="TextInput" x="0" y="0" w="115" h="24" zOrder="0">
+          <locked>True</locked>
+          <canMove>False</canMove>
+          <alias>input</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%8D%95%E5%93%81%E6%8A%98%E6%89%A3</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="8840B279-AD52-47C1-B846-7948662FDFEA" controlTypeID="Button" x="114" y="0" w="24" h="24" zOrder="1">
+          <locked>True</locked>
+          <canMove>False</canMove>
+          <alias>button</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>0</radius>
+        </control>
+        <control controlID="F4118B86-9172-4A43-8AA3-D7E0DC6B542E" controlTypeID="List" x="0" y="24" w="138" h="50" zOrder="2">
+          <isShow>False</isShow>
+          <canMove>False</canMove>
+          <alias>dropDown</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%8D%95%E5%93%81%E6%8A%98%E6%89%A3%0D%0A%E8%AE%A2%E5%8D%95%E6%BB%A1%E5%87%8F%0D%0A</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <itemHeight>24</itemHeight>
+          <interlaceColor>4294967295</interlaceColor>
+        </control>
+      </groupChildrenDescriptors>
+      <baseHeight>24</baseHeight>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91"/>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="C1C80C39-4841-450F-95C2-7489E93BEDC3" controlTypeID="Label" x="256" y="171" w="55" h="19" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%94%9F%E6%95%88%E6%97%B6%E9%97%B4</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="CCEF92E6-740C-419E-9519-A0492B6CFBFC" controlTypeID="CompositeComboBox" x="321" y="169" w="139" h="24" zOrder="7">
+      <groupChildrenDescriptors>
+        <control controlID="74FC92E9-B899-462D-8774-58A39B99E456" controlTypeID="TextInput" x="0" y="0" w="116" h="24" zOrder="0">
+          <locked>True</locked>
+          <canMove>False</canMove>
+          <alias>input</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%9D%A1%E7%9B%AE%E4%B8%80</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3BB17AD9-87C0-4598-9F4C-B742B1D7B532" controlTypeID="Button" x="115" y="0" w="24" h="24" zOrder="1">
+          <locked>True</locked>
+          <canMove>False</canMove>
+          <alias>button</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>0</radius>
+        </control>
+        <control controlID="EC21B581-71B5-48A6-A863-410D1745F353" controlTypeID="List" x="0" y="24" w="139" h="26" zOrder="2">
+          <isShow>False</isShow>
+          <canMove>False</canMove>
+          <alias>dropDown</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%9D%A1%E7%9B%AE%E4%B8%80%0D%0A</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <itemHeight>24</itemHeight>
+          <interlaceColor>4294967295</interlaceColor>
+        </control>
+      </groupChildrenDescriptors>
+      <baseHeight>24</baseHeight>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91"/>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="3C86E21F-1165-4236-9A0C-005541802760" controlTypeID="Label" x="256" y="205" w="55" h="19" zOrder="8">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E7%BB%93%E6%9D%9F%E6%97%B6%E9%97%B4</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="F4BB0219-D706-462E-9517-E7A2F36F9736" controlTypeID="CompositeComboBox" x="321" y="203" w="139" h="24" zOrder="9">
+      <groupChildrenDescriptors>
+        <control controlID="BB476FBA-D414-4467-BED8-18B0D4C15712" controlTypeID="TextInput" x="0" y="0" w="116" h="24" zOrder="0">
+          <locked>True</locked>
+          <canMove>False</canMove>
+          <alias>input</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%9D%A1%E7%9B%AE%E4%B8%80</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="9D3885B4-0370-4AA8-A5C4-26734FA49FF8" controlTypeID="Button" x="115" y="0" w="24" h="24" zOrder="1">
+          <locked>True</locked>
+          <canMove>False</canMove>
+          <alias>button</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>0</radius>
+        </control>
+        <control controlID="326CD557-92BE-4A68-BECF-81A3FDBF744C" controlTypeID="List" x="0" y="24" w="139" h="26" zOrder="2">
+          <isShow>False</isShow>
+          <canMove>False</canMove>
+          <alias>dropDown</alias>
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%9D%A1%E7%9B%AE%E4%B8%80%0D%0A</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+          <itemHeight>24</itemHeight>
+          <interlaceColor>4294967295</interlaceColor>
+        </control>
+      </groupChildrenDescriptors>
+      <baseHeight>24</baseHeight>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91"/>
+      <textSize>14</textSize>
+    </control>
+    <control controlID="2DA8739F-461D-47CB-B786-FDD3AD32C346" controlTypeID="Label" x="256" y="242" w="27" h="19" zOrder="10">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%8A%98%E6%89%A3</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="FA3EA79A-8D4A-4C72-89D4-41090F16F6FE" controlTypeID="TextInput" x="321" y="239" w="115" h="24" zOrder="11">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="86E03109-48C9-4E13-AAB6-072D3BA613AE" controlTypeID="Label" x="442" y="241" w="14" h="19" zOrder="12">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%8A%98</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="287E9A41-FCDF-49A6-A5F5-96CAA3D6E189" controlTypeID="Label" x="256" y="278" w="55" h="19" zOrder="13">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%B4%BB%E5%8A%A8%E5%95%86%E5%93%81</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="017A88FF-BB45-411E-9920-ACB4BD7B6A42" controlTypeID="Button" x="600" y="346" w="70" h="28" zOrder="14">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%B7%BB%E5%8A%A0</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="11E9F646-067D-4DA5-8D82-1039C66D4039" controlTypeID="Button" x="600" y="392" w="70" h="28" zOrder="15">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E5%88%A0%E9%99%A4</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="1C9FCBF2-2F39-435A-984C-852FDF1A5CB2" controlTypeID="__group__" x="692" y="314" w="377" h="180" zOrder="16">
+      <groupChildrenDescriptors>
+        <control controlID="EFBC50DA-D173-48E2-9814-60B6FE6CE600" controlTypeID="VerticalTabBar" x="0" y="0" w="200" h="180" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%9C%8D%E5%8A%A1%E7%B1%BB%2C%E5%95%86%E5%93%81%E7%B1%BB%2C%E4%BD%8F%E5%AE%BF%E7%B1%BB%2C%E5%A4%96%E5%8D%96%E7%B1%BB</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+        </control>
+        <control controlID="7526A857-9BDA-437E-BDCD-DF955271E318" controlTypeID="Table" x="59" y="0" w="318" h="180" zOrder="1">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%95%86%E5%93%81%E7%BC%96%E5%8F%B7%09%E5%95%86%E5%93%81%E7%B1%BB%E5%9E%8B%09%E5%95%86%E5%93%81%E5%90%8D%E7%A7%B0%09123156%09%E6%9C%8D%E5%8A%A1%E7%B1%BB%09XXXXXX%09123445%09%E5%95%86%E5%93%81%E7%B1%BB%09XXXXXX%09123156%09%E4%BD%8F%E5%AE%BF%E7%B1%BB%09XXXXXX%09123445%09%E5%A4%96%E5%8D%96%E7%B1%BB%09XXXXXX%09123156%09%E5%A4%96%E5%8D%96%E7%B1%BB%09XXXXXX</text>
+          <textSize>14</textSize>
+          <textAlign>HaCenter</textAlign>
+          <lineSpacing>0</lineSpacing>
+          <thickness>1</thickness>
+          <dashMode>SdSolid</dashMode>
+          <tableStyle>tsNone</tableStyle>
+          <fontFamily/>
+          <fontWeight>Regular</fontWeight>
+          <textStyles>[]</textStyles>
+          <cells>
+            <cell rows="0,0" cols="0,0">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>%E5%95%86%E5%93%81%E7%BC%96%E5%8F%B7</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="1,1">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>%E5%95%86%E5%93%81%E7%B1%BB%E5%9E%8B</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="0,0" cols="2,2">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>%E5%95%86%E5%93%81%E5%90%8D%E7%A7%B0</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="0,0">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>123156</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="1,1">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>%E6%9C%8D%E5%8A%A1%E7%B1%BB</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="1,1" cols="2,2">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>XXXXXX</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="0,0">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>123445</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="1,1">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>%E5%95%86%E5%93%81%E7%B1%BB</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="2,2" cols="2,2">
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>XXXXXX</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="3,3" cols="0,0">
+              <fontSize>12</fontSize>
+              <textHAlign>HaCenter</textHAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textColor>4278190080</textColor>
+              <textWordWrap>True</textWordWrap>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>123156</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="3,3" cols="1,1">
+              <fontSize>12</fontSize>
+              <textHAlign>HaCenter</textHAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textColor>4278190080</textColor>
+              <textWordWrap>True</textWordWrap>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>%E4%BD%8F%E5%AE%BF%E7%B1%BB</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="3,3" cols="2,2">
+              <fontSize>12</fontSize>
+              <textHAlign>HaCenter</textHAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textColor>4278190080</textColor>
+              <textWordWrap>True</textWordWrap>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>XXXXXX</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="4,4" cols="0,0">
+              <fontSize>12</fontSize>
+              <textHAlign>HaCenter</textHAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textColor>4278190080</textColor>
+              <textWordWrap>True</textWordWrap>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>123445</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="4,4" cols="1,1">
+              <fontSize>12</fontSize>
+              <textHAlign>HaCenter</textHAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textColor>4278190080</textColor>
+              <textWordWrap>True</textWordWrap>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>%E5%A4%96%E5%8D%96%E7%B1%BB</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="4,4" cols="2,2">
+              <fontSize>12</fontSize>
+              <textHAlign>HaCenter</textHAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textColor>4278190080</textColor>
+              <textWordWrap>True</textWordWrap>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>XXXXXX</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="5,5" cols="0,0">
+              <fontSize>12</fontSize>
+              <textHAlign>HaCenter</textHAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textColor>4278190080</textColor>
+              <textWordWrap>True</textWordWrap>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>123156</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="5,5" cols="1,1">
+              <fontSize>12</fontSize>
+              <textHAlign>HaCenter</textHAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textColor>4278190080</textColor>
+              <textWordWrap>True</textWordWrap>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>%E5%A4%96%E5%8D%96%E7%B1%BB</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+            <cell rows="5,5" cols="2,2">
+              <fontSize>12</fontSize>
+              <textHAlign>HaCenter</textHAlign>
+              <textVAlign>VaMiddle</textVAlign>
+              <textColor>4278190080</textColor>
+              <textWordWrap>True</textWordWrap>
+              <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <text>XXXXXX</text>
+              <textHeight>28</textHeight>
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+            </cell>
+          </cells>
+          <rows>
+            <row height="30">
+              <fontFamily/>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <fontFamily/>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <fontFamily/>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <fontFamily/>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <fontFamily/>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+            <row height="30">
+              <fontFamily/>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+              <isAutoRowHeight>True</isAutoRowHeight>
+            </row>
+          </rows>
+          <cols>
+            <col width="100">
+              <fontFamily/>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+            </col>
+            <col width="102">
+              <fontFamily/>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+            </col>
+            <col width="116">
+              <fontFamily/>
+              <fontWeight>Regular</fontWeight>
+              <textStyles>[]</textStyles>
+            </col>
+          </cols>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="4A2BD3CE-6BB7-4C7D-8788-AEE92193BAF2" controlTypeID="Master" x="25" y="15" w="205" h="56" zOrder="17" masterID="C6373BAB-7887-467F-9A68-CD96F7E8F29D">
+      <groupChildrenDescriptors>
+        <control controlID="744EDE50-F04F-43DA-8D48-DC032D009EAC" controlTypeID="Shape" x="0" y="0" w="60" h="56" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>logo</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="2E491C00-D72E-4ADE-9399-17C30F83DC5B" controlTypeID="Label" x="65" y="37" w="140" h="19" zOrder="1">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%99%93%E5%8F%AF%E5%B9%BF%E5%9C%BA%E5%95%86%E6%88%B7%E8%BF%90%E8%90%A5%E5%90%8E%E5%8F%B0</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="0C82D2DC-7B86-4A8E-9770-A5BDBC64D9F7" controlTypeID="Master" x="1053" y="15" w="207" h="47" zOrder="18" masterID="C383D48A-C7AB-4D44-8C5D-AAAFE9904004">
+      <groupChildrenDescriptors>
+        <control controlID="8BFB238C-2CB4-497E-A04B-F634CCC7C3BB" controlTypeID="Label" x="0" y="0" w="207" h="19" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%AC%A2%E8%BF%8E%E6%82%A8%EF%BC%81%E5%88%98%E5%BE%B7%E5%8D%8E%EF%BC%8818586626598%EF%BC%89</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="58C69787-3A26-4734-A6B0-3452CF907EA2" controlTypeID="Button" x="137" y="23" w="70" h="24" zOrder="1">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E9%80%80%E5%87%BA</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="E8F92A1D-BA1E-4B0D-BA75-DB57D43DE54A" controlTypeID="Master" x="25" y="89" w="150" h="422" zOrder="19" masterID="67A50A05-D791-44D7-B306-2AD2DE2A47D9">
+      <groupChildrenDescriptors>
+        <control controlID="00E998FF-BE03-4396-AD30-9466140C7294" controlTypeID="Accordion" x="0" y="0" w="150" h="422" zOrder="0">
+          <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E9%A6%96%E9%A1%B5%0D%0A%E5%95%86%E9%93%BA%E7%AE%A1%E7%90%86%0D%0A%E8%B4%A6%E5%8F%B7%E7%AE%A1%E7%90%86%0D%0A%E4%BF%83%E9%94%80%E7%AE%A1%E7%90%86%0D%0A%E8%AE%A2%E5%8D%95%E7%AE%A1%E7%90%86%0D%0A%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%0D%0A%E8%B4%A2%E5%8A%A1%E4%B8%AD%E5%BF%83%0D%0A%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86%0D%0A%E5%93%81%E7%B1%BB%E7%AE%A1%E7%90%86%0D%0A%E8%AF%84%E4%BB%B7%E7%AE%A1%E7%90%86%0D%0A%E5%94%AE%E5%90%8E%E7%AE%A1%E7%90%86%0D%0A%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%0D%0A%E5%BA%97%E9%93%BA%E7%BB%91%E5%AE%9A</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

@@ -1,0 +1,55 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="6B235C36-659A-4261-B820-C87C07253CCB" platform="MtWeb" defaultW="1280" defaultH="720" measureW="1280" measureH="720" mobileScreenScale="0">
+  <controls controlCount="7">
+    <control controlID="C3D5EF52-C13E-444F-AFBA-9619A91F6F10" controlTypeID="ScrollView" x="318" y="73" w="643" h="497" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="4B4D91AF-3C07-4F5E-85B3-09ECC02EDC82" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="643" h="497" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="726CF430-1DD4-4090-AF65-468226E82E1A" controlTypeID="TextArea" x="10" y="20" w="619" h="426" zOrder="0">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Aenean+auctor+dictum+purus%2C+et+sollicitudin+leo+ornare+sed.+Morbi+suscipit+ut+orci+eget+varius.+Sed+ut+sollicitudin+dui%2C+ac+viverra+nulla.+Proin+rutrum%2C+mi+vehicula+ornare+sodales%2C+nisi+augue+venenatis+urna%2C+a+dignissim+mauris+elit+non+lectus.+Cras+posuere+urna+vel+purus+elementum+elementum.+Praesent+mollis%2C+ipsum+vel+malesuada+tincidunt%2C+turpis+tortor+finibus+nulla%2C+id+laoreet+neque+quam+vel+massa.+Curabitur+non+ullamcorper+nibh.+Maecenas+venenatis+viverra+est%2C+id+porta+arcu.+Curabitur+a+iaculis+orci%2C+non+iaculis+urna.+Maecenas+ut+maximus+nibh%2C+in+tincidunt+urna.+Proin+ullamcorper+malesuada+libero+at+posuere.+Suspendisse+posuere%2C+turpis+id+tempus+vehicula%2C+neque+velit+fermentum+nibh%2C+vitae+consectetur+metus+metus+sed+nisi.+Aenean+sed+orci+et+ipsum+malesuada+volutpat.%0D%0AAenean+auctor+dictum+purus%2C+et+sollicitudin+leo+ornare+sed.+Morbi+suscipit+ut+orci+eget+varius.+Sed+ut+sollicitudin+dui%2C+ac+viverra+nulla.+Proin+rutrum%2C+mi+vehicula+ornare+sodales%2C+nisi+augue+venenatis+urna%2C+a+dignissim+mauris+elit+non+lectus.+Cras+posuere+urna+vel+purus+elementum+elementum.+Praesent+mollis%2C+ipsum+vel+malesuada+tincidunt%2C+turpis+tortor+finibus+nulla%2C+id+laoreet+neque+quam+vel+massa.+Curabitur+non+ullamcorper+nibh.+Maecenas+venenatis+viverra+est%2C+id+porta+arcu.+Curabitur+a+iaculis+orci%2C+non+iaculis+urna.+Maecenas+ut+maximus+nibh%2C+in+tincidunt+urna.+Proin+ullamcorper+malesuada+libero+at+posuere.+Suspendisse+posuere%2C+turpis+id+tempus+vehicula%2C+neque+velit+fermentum+nibh%2C+vitae+consectetur+metus+metus+sed+nisi.+Aenean+sed+orci+et+ipsum+malesuada+volutpat.%0D%0AAenean+auctor+dictum+purus%2C+et+sollicitudin+leo+ornare+sed.+Morbi+suscipit+ut+orci+eget+varius.+Sed+ut+sollicitudin+dui%2C+ac+viverra+nulla.+Proin+rutrum%2C+mi+vehicula+ornare+sodales%2C+nisi+augue+venenatis+urna%2C+a+dignissim+mauris+elit+non+lectus.+Cras+posuere+urna+vel+purus+elementum+elementum.+Praesent+mollis%2C+ipsum+vel+malesuada+tincidunt%2C+turpis+tortor+finibus+nulla%2C+id+laoreet+neque+quam+vel+massa.+Curabitur+non+ullamcorper+nibh.+Maecenas+venenatis+viverra+est%2C+id+porta+arcu.+Curabitur+a+iaculis+orci%2C+non+iaculis+urna.+Maecenas+ut+maximus+nibh%2C+in+tincidunt+urna.+Proin+ullamcorper+malesuada+libero+at+posuere.+Suspendisse+posuere%2C+turpis+id+tempus+vehicula%2C+neque+velit+fermentum+nibh%2C+vitae+consectetur+metus+metus+sed+nisi.+Aenean+sed+orci+et+ipsum+malesuada+volutpat.%0D%0AAenean+auctor+dictum+purus%2C+et+sollicitudin+leo+ornare+sed.+Morbi+suscipit+ut+orci+eget+varius.+Sed+ut+sollicitudin+dui%2C+ac+viverra+nulla.+Proin+rutrum%2C+mi+vehicula+ornare+sodales%2C+nisi+augue+venenatis+urna%2C+a+dignissim+mauris+elit+non+lectus.+Cras+posuere+urna+vel+purus+elementum+elementum.+Praesent+mollis%2C+ipsum+vel+malesuada+tincidunt%2C+turpis+tortor+finibus+nulla%2C+id+laoreet+neque+quam+vel+massa.+Curabitur+non+ullamcorper+nibh.+Maecenas+venenatis+viverra+est%2C+id+porta+arcu.+Curabitur+a+iaculis+orci%2C+non+iaculis+urna.+Maecenas+ut+maximus+nibh%2C+in+tincidunt+urna.+Proin+ullamcorper+malesuada+libero+at+posuere.+Suspendisse+posuere%2C+turpis+id+tempus+vehicula%2C+neque+velit+fermentum+nibh%2C+vitae+consectetur+metus+metus+sed+nisi.+Aenean+sed+orci+et+ipsum+malesuada+volutpat.%0D%0A</text>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="04589219-817B-4460-9E7F-9DE29A72BBF0" controlTypeID="Border" x="0" y="0" w="643" h="497" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <canHoriScroll>True</canHoriScroll>
+    </control>
+    <control controlID="B1D3B9A1-CD07-4BDD-80C9-AE7627589FCD" controlTypeID="Shape" x="645" y="614" w="221" h="37" zOrder="1">
+      <color>4284374622</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%B8%8B%E4%B8%80%E6%AD%A5</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2B5DEEB9-4500-491E-8558-081D46F426D7" controlTypeID="Shape" x="414" y="615" w="221" h="37" zOrder="2">
+      <color>4284374622</color>
+      <borderVisible>False</borderVisible>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%B8%8A%E4%B8%80%E6%AD%A5</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6B1F1557-857B-4C96-A828-9378E29F1316" controlTypeID="RadioButton" x="318" y="580" w="158" h="19" zOrder="3">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%88%91%E5%B7%B2%E7%A1%AE%E8%AE%A4%E9%98%85%E8%AF%BB%E5%90%88%E5%90%8C%E6%9D%A1%E6%AC%BE</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <size>13</size>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>0</fontSize>
+    <fontFamily/>
+    <guideLines/>
+  </param>
+</mockup>

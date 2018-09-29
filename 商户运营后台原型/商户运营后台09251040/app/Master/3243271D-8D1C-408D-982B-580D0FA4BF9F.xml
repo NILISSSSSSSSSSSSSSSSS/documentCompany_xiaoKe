@@ -1,0 +1,9 @@
+﻿<master version="5.3" minAllowVersion="5.3" ID="3243271D-8D1C-408D-982B-580D0FA4BF9F">
+  <controls>
+    <control controlID="1A8D62CB-A2D7-4D18-902D-74D85D5CE8EB" controlTypeID="Master" x="0" y="0" w="375" h="20" zOrder="0" masterID="3243271D-8D1C-408D-982B-580D0FA4BF9F">
+      <groupChildrenDescriptors>
+        <control controlID="46A640F1-A727-4EED-BF50-2BDFE0DD8F2B" controlTypeID="StatusBar(IOS)" x="0" y="0" w="375" h="20" zOrder="0"/>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

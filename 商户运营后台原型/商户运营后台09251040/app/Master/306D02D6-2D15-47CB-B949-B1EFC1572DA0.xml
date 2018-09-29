@@ -1,0 +1,95 @@
+﻿<master version="5.3" minAllowVersion="5.3" ID="306D02D6-2D15-47CB-B949-B1EFC1572DA0">
+  <controls>
+    <control controlID="BFADF6CE-BDDA-4A9C-9A5D-F04A1329574C" controlTypeID="Master" x="204" y="142" w="420" h="351" zOrder="6" masterID="306D02D6-2D15-47CB-B949-B1EFC1572DA0">
+      <groupChildrenDescriptors>
+        <control controlID="15331CF7-824C-4D43-B296-B975DE4BFD39" controlTypeID="Label" x="1" y="0" w="137" h="19" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E8%AE%A2%E5%8D%95%E5%8F%B7%EF%BC%9A1515151515</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="AB403C05-1D16-431E-9D7F-4BF67455B608" controlTypeID="Label" x="1" y="29" w="219" h="19" zOrder="1">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%89%80%E5%B1%9E%E5%BA%97%E9%93%BA%EF%BC%9A151511524%EF%BC%88xxxx%E5%BA%97%E9%93%BA%EF%BC%89</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="23D52EFB-2552-4CAF-B6B9-AFAB9F8D2D75" controlTypeID="Label" x="0" y="58" w="379" h="19" zOrder="2">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E7%8A%B6%E6%80%81%EF%BC%9A%E5%BE%85%E4%BB%98%E6%AC%BE(07-26%E6%97%A5+18%EF%BC%9A00%E4%BB%8D%E6%9C%AA%E4%BB%98%E6%AC%BE%EF%BC%8C%E8%AE%A2%E5%8D%95%E5%B0%86%E4%BC%9A%E8%87%AA%E5%8A%A8%E5%8F%96%E6%B6%88%EF%BC%89</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="63E581F0-0735-4EB2-BB06-8264E0F72435" controlTypeID="Label" x="0" y="87" w="207" h="19" zOrder="3">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E4%B8%8B%E5%8D%95%E6%97%B6%E9%97%B4%EF%BC%9A2018-08-08+12%3A12%3A12</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="921F6BB5-9BF2-4088-AC4C-662B7241E734" controlTypeID="Label" x="0" y="116" w="82" h="19" zOrder="4">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>KTV%E7%89%B9%E4%BB%B7%E5%8C%85%E9%97%B4</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="8550B07A-8229-4AC2-9C5D-F0239590C0BA" controlTypeID="Label" x="105" y="116" w="91" h="19" zOrder="5">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E4%B8%AD%E5%8C%85%2B200%E5%A5%97%E9%A4%90</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="C2E01BD6-6CFD-4A2F-9608-6F7B8FC57226" controlTypeID="Label" x="0" y="145" w="158" h="19" zOrder="6">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E9%A2%84%E7%BA%A6%E6%97%B6%E9%97%B4%EF%BC%9A8%E6%9C%8827%E6%97%A518%3A00</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="03284CAC-1145-4A7A-97F9-F22F1F3611CA" controlTypeID="Label" x="0" y="332" w="294" h="19" zOrder="7">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%A4%87%E6%B3%A8%EF%BC%9A%E9%98%BF%E8%90%A8%E5%BE%B7%E5%8F%91%E7%9A%84%E5%8F%91%E7%94%9F%E7%9A%84%E5%8F%91%E7%94%9F%E5%A4%A7%E5%B8%88%E6%B3%95%E5%B8%88%E6%89%93%E5%8F%91%E6%89%93%E5%8F%91</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="125F9AEE-B599-4F0B-8C58-C0CD60DDA0BB" controlTypeID="Label" x="0" y="174" w="159" h="19" zOrder="8">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E9%A2%84%E7%BA%A6%E6%89%8B%E6%9C%BA%EF%BC%9A18585858585</text>
+          <lineSpacing>0</lineSpacing>
+          <useDefaultTextSize>False</useDefaultTextSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="3558345C-2CC6-4DFE-8D7B-52F9F69B9E29" controlTypeID="Label" x="0" y="236" w="50" h="19" zOrder="9">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%95%B0%E9%87%8F%EF%BC%9A4</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="40A86048-9EC6-46E0-B0AE-C8851F0A07A1" controlTypeID="Label" x="0" y="204" w="80" h="19" zOrder="10">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%8D%95%E4%BB%B7%EF%BC%9A100%E5%85%83</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="0931E045-8D49-47C6-9467-4CFD0221897F" controlTypeID="Label" x="0" y="266" w="108" h="19" zOrder="11">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%85%B1%E8%AE%A1%EF%BC%9A1000.00%E5%85%83</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="85D59EC7-6E1D-494C-BC18-433DEAD463C1" controlTypeID="Label" x="96" y="204" w="80" h="19" zOrder="12">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%8E%9F%E4%BB%B7%EF%BC%9A150%E5%85%83</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="045163ED-352D-4C86-86E8-880C52259D8C" controlTypeID="TextArea" x="0" y="299" w="420" h="23" zOrder="13">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E4%BC%98%E6%83%A0%E8%AF%B4%E6%98%8E%EF%BC%9A%EF%BC%88%E4%BC%9A%E5%91%98%E5%8D%A1%E6%89%93%E6%8A%98%2F%E6%89%93%E6%8A%98%E5%88%B8%2F%E6%8A%B5%E6%89%A3%E5%88%B8%2F%E6%BB%A1%E5%87%8F%E5%88%B8%E4%BC%98%E6%83%A026.00%E5%85%83%EF%BC%89</text>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

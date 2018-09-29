@@ -1,0 +1,34 @@
+﻿<master version="5.3" minAllowVersion="5.3" ID="5CDE9C68-3B4B-4816-8FB2-BFD656389754">
+  <controls>
+    <control controlID="98E5D81A-10FE-4598-8F5E-2171325B95D8" controlTypeID="Master" x="870" y="511" w="322" h="28" zOrder="16" masterID="5CDE9C68-3B4B-4816-8FB2-BFD656389754">
+      <groupChildrenDescriptors>
+        <control controlID="30633947-FFC8-4E1C-BB4E-666472D3A2BD" controlTypeID="Button" x="111" y="0" w="70" h="28" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E4%B8%8A%E4%B8%80%E9%A1%B5</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="ED6AB324-A4D3-407E-8E86-40FD700672CD" controlTypeID="Label" x="188" y="4" w="56" h="19" zOrder="1">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E7%AC%ACN%2FN%E9%A1%B5</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="79DCC5D1-300B-49EC-94BD-E5C9FB5EFEB2" controlTypeID="Button" x="252" y="0" w="70" h="28" zOrder="2">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E4%B8%8B%E4%B8%80%E9%A1%B5</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+          <radius>4</radius>
+        </control>
+        <control controlID="3CB32CD8-1EB3-498D-A5DF-A2BC919B8D3B" controlTypeID="Label" x="0" y="6" w="97" h="19" zOrder="3">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E5%85%B116231%E4%B8%AA%E7%BB%93%E6%9E%9C</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+</master>

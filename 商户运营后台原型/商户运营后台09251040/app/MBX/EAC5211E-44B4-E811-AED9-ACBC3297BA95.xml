@@ -1,0 +1,214 @@
+﻿<mockup version="5.3" minAllowVersion="5.3" ID="EAC5211E-44B4-E811-AED9-ACBC3297BA95" platform="MtWeb" defaultW="1280" defaultH="1700" measureW="1280" measureH="1700" mobileScreenScale="0">
+  <controls controlCount="22">
+    <control controlID="C3D5EF52-C13E-444F-AFBA-9619A91F6F10" controlTypeID="ScrollView" x="318" y="240" w="643" h="497" zOrder="0">
+      <groupChildrenDescriptors>
+        <control controlID="4B4D91AF-3C07-4F5E-85B3-09ECC02EDC82" controlTypeID="ScrollViewContentPanel" x="0" y="0" w="643" h="497" zOrder="0">
+          <alias>contentPanel</alias>
+          <groupChildrenDescriptors>
+            <control controlID="726CF430-1DD4-4090-AF65-468226E82E1A" controlTypeID="TextArea" x="10" y="20" w="619" h="426" zOrder="0">
+              <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+              <text>Aenean+auctor+dictum+purus%2C+et+sollicitudin+leo+ornare+sed.+Morbi+suscipit+ut+orci+eget+varius.+Sed+ut+sollicitudin+dui%2C+ac+viverra+nulla.+Proin+rutrum%2C+mi+vehicula+ornare+sodales%2C+nisi+augue+venenatis+urna%2C+a+dignissim+mauris+elit+non+lectus.+Cras+posuere+urna+vel+purus+elementum+elementum.+Praesent+mollis%2C+ipsum+vel+malesuada+tincidunt%2C+turpis+tortor+finibus+nulla%2C+id+laoreet+neque+quam+vel+massa.+Curabitur+non+ullamcorper+nibh.+Maecenas+venenatis+viverra+est%2C+id+porta+arcu.+Curabitur+a+iaculis+orci%2C+non+iaculis+urna.+Maecenas+ut+maximus+nibh%2C+in+tincidunt+urna.+Proin+ullamcorper+malesuada+libero+at+posuere.+Suspendisse+posuere%2C+turpis+id+tempus+vehicula%2C+neque+velit+fermentum+nibh%2C+vitae+consectetur+metus+metus+sed+nisi.+Aenean+sed+orci+et+ipsum+malesuada+volutpat.%0D%0AAenean+auctor+dictum+purus%2C+et+sollicitudin+leo+ornare+sed.+Morbi+suscipit+ut+orci+eget+varius.+Sed+ut+sollicitudin+dui%2C+ac+viverra+nulla.+Proin+rutrum%2C+mi+vehicula+ornare+sodales%2C+nisi+augue+venenatis+urna%2C+a+dignissim+mauris+elit+non+lectus.+Cras+posuere+urna+vel+purus+elementum+elementum.+Praesent+mollis%2C+ipsum+vel+malesuada+tincidunt%2C+turpis+tortor+finibus+nulla%2C+id+laoreet+neque+quam+vel+massa.+Curabitur+non+ullamcorper+nibh.+Maecenas+venenatis+viverra+est%2C+id+porta+arcu.+Curabitur+a+iaculis+orci%2C+non+iaculis+urna.+Maecenas+ut+maximus+nibh%2C+in+tincidunt+urna.+Proin+ullamcorper+malesuada+libero+at+posuere.+Suspendisse+posuere%2C+turpis+id+tempus+vehicula%2C+neque+velit+fermentum+nibh%2C+vitae+consectetur+metus+metus+sed+nisi.+Aenean+sed+orci+et+ipsum+malesuada+volutpat.%0D%0AAenean+auctor+dictum+purus%2C+et+sollicitudin+leo+ornare+sed.+Morbi+suscipit+ut+orci+eget+varius.+Sed+ut+sollicitudin+dui%2C+ac+viverra+nulla.+Proin+rutrum%2C+mi+vehicula+ornare+sodales%2C+nisi+augue+venenatis+urna%2C+a+dignissim+mauris+elit+non+lectus.+Cras+posuere+urna+vel+purus+elementum+elementum.+Praesent+mollis%2C+ipsum+vel+malesuada+tincidunt%2C+turpis+tortor+finibus+nulla%2C+id+laoreet+neque+quam+vel+massa.+Curabitur+non+ullamcorper+nibh.+Maecenas+venenatis+viverra+est%2C+id+porta+arcu.+Curabitur+a+iaculis+orci%2C+non+iaculis+urna.+Maecenas+ut+maximus+nibh%2C+in+tincidunt+urna.+Proin+ullamcorper+malesuada+libero+at+posuere.+Suspendisse+posuere%2C+turpis+id+tempus+vehicula%2C+neque+velit+fermentum+nibh%2C+vitae+consectetur+metus+metus+sed+nisi.+Aenean+sed+orci+et+ipsum+malesuada+volutpat.%0D%0AAenean+auctor+dictum+purus%2C+et+sollicitudin+leo+ornare+sed.+Morbi+suscipit+ut+orci+eget+varius.+Sed+ut+sollicitudin+dui%2C+ac+viverra+nulla.+Proin+rutrum%2C+mi+vehicula+ornare+sodales%2C+nisi+augue+venenatis+urna%2C+a+dignissim+mauris+elit+non+lectus.+Cras+posuere+urna+vel+purus+elementum+elementum.+Praesent+mollis%2C+ipsum+vel+malesuada+tincidunt%2C+turpis+tortor+finibus+nulla%2C+id+laoreet+neque+quam+vel+massa.+Curabitur+non+ullamcorper+nibh.+Maecenas+venenatis+viverra+est%2C+id+porta+arcu.+Curabitur+a+iaculis+orci%2C+non+iaculis+urna.+Maecenas+ut+maximus+nibh%2C+in+tincidunt+urna.+Proin+ullamcorper+malesuada+libero+at+posuere.+Suspendisse+posuere%2C+turpis+id+tempus+vehicula%2C+neque+velit+fermentum+nibh%2C+vitae+consectetur+metus+metus+sed+nisi.+Aenean+sed+orci+et+ipsum+malesuada+volutpat.%0D%0A</text>
+              <selectedIndex>-1</selectedIndex>
+            </control>
+          </groupChildrenDescriptors>
+        </control>
+        <control controlID="04589219-817B-4460-9E7F-9DE29A72BBF0" controlTypeID="Border" x="0" y="0" w="643" h="497" zOrder="1">
+          <color>4284900966</color>
+          <borderColor>4278190080</borderColor>
+          <alias>borderLayer</alias>
+        </control>
+      </groupChildrenDescriptors>
+      <canHoriScroll>True</canHoriScroll>
+    </control>
+    <control controlID="B1D3B9A1-CD07-4BDD-80C9-AE7627589FCD" controlTypeID="Shape" x="645" y="781" w="221" h="37" zOrder="1">
+      <color>4284374622</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="FAD5241E-44B4-E811-AED9-ACBC3297BA95" linkType="ltPageLink" isApplyIncludePage="False" title="%E7%89%B9%E5%88%AB%E5%90%88%E7%BA%A6">
+          <area shape="0" alt="" ID="{757B6377-04D0-4644-8FDB-530B1C5193FE}" coords="(0,0,221,37)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%B8%8B%E4%B8%80%E6%AD%A5</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2B5DEEB9-4500-491E-8558-081D46F426D7" controlTypeID="Shape" x="414" y="782" w="221" h="37" zOrder="2">
+      <color>4284374622</color>
+      <borderVisible>False</borderVisible>
+      <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+        <link targetPageID="EA03201E-44B4-E811-AED9-ACBC3297BA95" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%95%86%E6%88%B7">
+          <area shape="0" alt="" ID="{A9026D09-BB47-44F5-9D9C-3A50BA4BB00B}" coords="(0,0,221,37)"/>
+        </link>
+      </links>
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E4%B8%8A%E4%B8%80%E6%AD%A5</text>
+      <textColor>4294967295</textColor>
+      <textSize>14</textSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="6B1F1557-857B-4C96-A828-9378E29F1316" controlTypeID="RadioButton" x="318" y="747" w="158" h="19" zOrder="3">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%88%91%E5%B7%B2%E4%BB%94%E7%BB%86%E9%98%85%E8%AF%BB%E5%90%88%E5%90%8C%E6%9D%A1%E6%AC%BE</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <size>13</size>
+    </control>
+    <control controlID="B583FF7E-4C70-4BE9-B023-E3B8DE345055" controlTypeID="Master" x="25" y="15" w="205" h="56" zOrder="4" masterID="C6373BAB-7887-467F-9A68-CD96F7E8F29D">
+      <groupChildrenDescriptors>
+        <control controlID="690EBE67-626C-4B43-A822-234EEC264EA0" controlTypeID="Shape" x="0" y="0" w="60" h="56" zOrder="0">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>logo</text>
+          <textSize>14</textSize>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+        <control controlID="FFFBC950-0143-42F5-86EC-FB7BB07E72B3" controlTypeID="Label" x="65" y="37" w="140" h="19" zOrder="1">
+          <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E6%99%93%E5%8F%AF%E5%B9%BF%E5%9C%BA%E5%95%86%E6%88%B7%E8%BF%90%E8%90%A5%E5%90%8E%E5%8F%B0</text>
+          <lineSpacing>0</lineSpacing>
+          <selectedIndex>-1</selectedIndex>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+    <control controlID="F2BC690D-FC30-45B1-8A78-4F6E7F78CF43" controlTypeID="Label" x="1053" y="15" w="207" h="19" zOrder="5">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%AC%A2%E8%BF%8E%E6%82%A8%EF%BC%81%E5%88%98%E5%BE%B7%E5%8D%8E%EF%BC%8818586626598%EF%BC%89</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="90C86C65-CB46-433B-91EE-9A32B20AF4F7" controlTypeID="Button" x="1190" y="38" w="70" h="24" zOrder="6">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>%E6%93%8D%E4%BD%9C</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+      <radius>4</radius>
+    </control>
+    <control controlID="F3D58F84-655A-4873-B140-4BCFF8E64204" controlTypeID="Label" x="219" y="124" w="95" h="19" zOrder="7">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>1.%E5%85%A5%E9%A9%BB%E4%BF%A1%E6%81%AF%E5%A1%AB%E5%86%99</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="44220CEC-7BFC-4940-AD1D-6404B5DECA8E" controlTypeID="Label" x="457" y="124" w="67" h="19" zOrder="8">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>2.%E5%90%88%E5%90%8C%E7%A1%AE%E8%AE%A4</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="55E54325-0166-425F-ABE9-46A7C8E58249" controlTypeID="Label" x="661" y="124" w="95" h="19" zOrder="9">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>3.%E7%89%B9%E5%88%AB%E5%90%88%E7%BA%A6%E7%A1%AE%E8%AE%A4</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0CD4D108-1BED-450C-A3A6-9778DB86E962" controlTypeID="Label" x="899" y="124" w="81" h="19" zOrder="10">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>4.%E6%8B%85%E4%BF%9D%E4%B9%A6%E7%A1%AE%E8%AE%A4</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="04D24360-FAB5-4824-9F1C-88D9A68DF286" controlTypeID="Label" x="1107" y="124" w="67" h="19" zOrder="11">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+      <text>5.%E6%8F%90%E4%BA%A4%E5%AE%8C%E6%88%90</text>
+      <lineSpacing>0</lineSpacing>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="2FE3DB99-5D55-4544-B0CD-E44805084F28" controlTypeID="Label" x="219" y="92" w="72" h="22" zOrder="12">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%E5%BA%97%E9%93%BA%E5%88%97%E8%A1%A8%2F</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="0223E57B-84D0-4DB4-BE61-8964075B5AD9" controlTypeID="Label" x="292" y="92" w="63" h="22" zOrder="13">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%E5%BA%97%E9%93%BA%E6%96%B0%E5%A2%9E</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="DDDC5F79-E8E2-4A8C-8DDF-3BB873560D1D" controlTypeID="Label" x="357" y="92" w="71" h="22" zOrder="14">
+      <font family="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91+Bold" postScript="" weightStyle="Bold" weight="700" isBold="True" isItalic="False"/>
+      <text>%2F%E5%85%A5%E9%A9%BB%E6%B5%81%E7%A8%8B</text>
+      <textSize>16</textSize>
+      <lineSpacing>0</lineSpacing>
+      <textStyles>[fsBold]</textStyles>
+      <useDefaultTextSize>False</useDefaultTextSize>
+      <selectedIndex>-1</selectedIndex>
+    </control>
+    <control controlID="93F87772-65B0-4D97-BD73-DD9947F1ECF8" controlTypeID="Master" x="25" y="89" w="150" h="498" zOrder="15" masterID="67A50A05-D791-44D7-B306-2AD2DE2A47D9">
+      <groupChildrenDescriptors>
+        <control controlID="5329D3B1-F435-4866-9B2A-1B24163A028C" controlTypeID="Accordion" x="0" y="0" w="150" h="498" zOrder="0">
+          <links eventType="AtClick" animate="AmNone" animateAutoDelay="0" animateDuration="500">
+            <link targetPageID="5BB939BE-FCFF-40ED-AD76-1EE5DEA28FCE" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%A6%96%E9%A1%B5">
+              <area shape="0" alt="" ID="{DB14AD93-F81D-4B96-AB3A-CD56209BC6C8}" coords="(1,1,149,30)"/>
+            </link>
+            <link targetPageID="3E7A7EBD-673D-40F7-8547-C18E261A637B" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%95%86%E9%93%BA%E7%AE%A1%E7%90%86">
+              <area shape="0" alt="" ID="{7F44BC96-789D-40D0-B662-23837575E9CA}" coords="(1,33,149,62)"/>
+            </link>
+            <link targetPageID="65509C04-59BE-43D7-957A-C04E26E7137B" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%A6%E5%8F%B7%E4%B8%AD%E5%BF%83">
+              <area shape="0" alt="" ID="{67446BEC-5AD1-4327-BE58-075129259638}" coords="(1,62,149,91)"/>
+            </link>
+            <link targetPageID="D39C4A27-2F9B-4754-8BEF-DD7254D8E8EB" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%AE%A2%E5%8D%95%E7%AE%A1%E7%90%86">
+              <area shape="0" alt="" ID="{03EC30B7-1FC7-4209-BE04-97E0E0ABA180}" coords="(1,91,149,120)"/>
+            </link>
+            <link targetPageID="EFB1B18F-4822-4EEA-855E-970A25DF7324" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83">
+              <area shape="0" alt="" ID="{3ED47E5D-3CAF-4BA2-AEB0-425DFC04DF60}" coords="(1,120,149,149)"/>
+            </link>
+            <link targetPageID="DBB0D7F6-6525-4E15-8FA5-366465450724" linkType="ltPageLink" isApplyIncludePage="False" title="%E4%BF%83%E9%94%80%E7%AE%A1%E7%90%86">
+              <area shape="0" alt="" ID="{B2C09447-F33B-4F2B-99D1-331E0D2870F4}" coords="(1,149,149,178)"/>
+            </link>
+            <link targetPageID="52B21A7E-93C4-4A1F-A3F4-9E42FEECC65F" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%B4%A2%E5%8A%A1%E4%B8%AD%E5%BF%83">
+              <area shape="0" alt="" ID="{2C48EBD8-2B82-4EE3-A364-34C8FE715B2D}" coords="(1,178,149,207)"/>
+            </link>
+            <link targetPageID="8FD92BBA-4178-49EF-93DB-EAEEB21C6884" linkType="ltPageLink" isApplyIncludePage="False" title="%E9%93%B6%E8%A1%8C%E5%8D%A1%E7%AE%A1%E7%90%86">
+              <area shape="0" alt="" ID="{E6738E25-E359-47F8-9B5A-1F40C2ADB740}" coords="(1,207,149,236)"/>
+            </link>
+            <link targetPageID="66BA56E7-2D92-4E23-9D16-A1AE31972D76" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%AF%84%E4%BB%B7%E7%AE%A1%E7%90%86">
+              <area shape="0" alt="" ID="{21CE4F68-6924-4AE3-9E09-B47D20A3B1F3}" coords="(1,236,149,265)"/>
+            </link>
+            <link targetPageID="20FD2490-FEA8-E811-A42F-ACBC3297BA95" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%93%81%E7%B1%BB%E7%AE%A1%E7%90%86">
+              <area shape="0" alt="" ID="{1FF3A1DF-3943-4C37-8198-C7024BB18F7F}" coords="(1,265,149,294)"/>
+            </link>
+            <link targetPageID="663F95AC-E1B8-450C-B41F-55A77E039F75" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B8%AD%E4%BD%8D%E7%AE%A1%E7%90%86">
+              <area shape="0" alt="" ID="{5A5BADA2-20FE-4544-B658-E808785E5D26}" coords="(1,294,149,323)"/>
+            </link>
+            <link targetPageID="E21AE0D6-66B3-4E8D-B45D-AB0F72FA1354" linkType="ltPageLink" isApplyIncludePage="False" title="%E8%BF%90%E8%B4%B9%E8%AE%BE%E7%BD%AE">
+              <area shape="0" alt="" ID="{293FA817-3884-4DB3-AE05-BD4409BFAF7F}" coords="(1,323,149,352)"/>
+            </link>
+            <link targetPageID="28A571AD-DAE8-4770-BB65-B3093C0A292E" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86">
+              <area shape="0" alt="" ID="{39CBCB30-5A7C-418A-8492-85019489ADFD}" coords="(1,352,149,381)"/>
+            </link>
+            <link targetPageID="414A76F0-C534-43F8-BA90-472C588500AD" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98">
+              <area shape="0" alt="" ID="{373B6601-E014-4FFE-99C6-137043B54DBA}" coords="(1,381,149,410)"/>
+            </link>
+            <link targetPageID="2501DBCE-2171-4E06-88B8-F59480A6BD49" linkType="ltPageLink" isApplyIncludePage="False" title="%E6%94%AF%E4%BB%98%E5%AF%86%E7%A0%81">
+              <area shape="0" alt="" ID="{5DC42CB5-AB2D-4732-B5CF-79A468C8E48D}" coords="(1,410,149,439)"/>
+            </link>
+            <link targetPageID="A6F18FC5-6B18-4C91-B829-97447C88CEA6" linkType="ltPageLink" isApplyIncludePage="False" title="%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83">
+              <area shape="0" alt="" ID="{F8511C5F-33F5-43D9-ACE8-8EB85BC6FAD3}" coords="(1,439,149,468)"/>
+            </link>
+            <link targetPageID="B2A4FC45-D4D3-4A16-9E18-1C66FAD5EE40" linkType="ltPageLink" isApplyIncludePage="False" title="%E5%BA%97%E9%93%BA%E6%8E%88%E6%9D%83%E7%A0%81">
+              <area shape="0" alt="" ID="{FFC84C67-15FC-40E0-86DD-14191EB6C7E9}" coords="(1,468,149,497)"/>
+            </link>
+          </links>
+          <font family="" displayName="%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91" postScript="" weightStyle="Regular" weight="400" isBold="False" isItalic="False"/>
+          <text>%E9%A6%96%E9%A1%B5%0D%0A%E5%95%86%E9%93%BA%E7%AE%A1%E7%90%86%0D%0A%E8%B4%A6%E5%8F%B7%E4%B8%AD%E5%BF%83%0D%0A%E8%AE%A2%E5%8D%95%E7%AE%A1%E7%90%86%0D%0A%E6%95%B0%E6%8D%AE%E4%B8%AD%E5%BF%83%0D%0A%E4%BF%83%E9%94%80%E7%AE%A1%E7%90%86%0D%0A%E8%B4%A2%E5%8A%A1%E4%B8%AD%E5%BF%83%0D%0A%E9%93%B6%E8%A1%8C%E5%8D%A1%E7%AE%A1%E7%90%86%0D%0A%E8%AF%84%E4%BB%B7%E7%AE%A1%E7%90%86%0D%0A%E5%93%81%E7%B1%BB%E7%AE%A1%E7%90%86%0D%0A%E5%B8%AD%E4%BD%8D%E7%AE%A1%E7%90%86%0D%0A%E8%BF%90%E8%B4%B9%E8%AE%BE%E7%BD%AE%0D%0A%E5%95%86%E5%93%81%E7%AE%A1%E7%90%86%0D%0A%E5%B8%B8%E8%A7%81%E9%97%AE%E9%A2%98%0D%0A%E6%94%AF%E4%BB%98%E5%AF%86%E7%A0%81%0D%0A%E4%B8%AA%E4%BA%BA%E4%B8%AD%E5%BF%83%0D%0A%E5%BA%97%E9%93%BA%E6%8E%88%E6%9D%83%E7%A0%81</text>
+          <textSize>14</textSize>
+          <lineSpacing>0</lineSpacing>
+        </control>
+      </groupChildrenDescriptors>
+    </control>
+  </controls>
+  <param>
+    <backgroundColor>4294967295</backgroundColor>
+    <fontSize>14</fontSize>
+    <fontFamily>%E5%BE%AE%E8%BD%AF%E9%9B%85%E9%BB%91</fontFamily>
+    <guideLines/>
+  </param>
+</mockup>
